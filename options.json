@@ -1,0 +1,35 @@
+{
+  "refresh_delay": "5",
+  "autoload": "yes",
+  "saved": [{
+    "name": "DogeHouse above $...60 (2.5x)",
+    "static_link": "https://poocoin.app/tokens/0x1CfE929254fb82B9e793f1a67F3Bb13C2ce09c16",
+    "static_direction": "above",
+    "static_price": "$0.00000000600814",
+    "emails": "none"
+    },{
+    "name": "none",
+    "static_link": "none",
+    "static_direction": "none",
+    "static_price": "none",
+    "emails": "none"
+    },{
+    "name": "none",
+    "static_link": "none",
+    "static_direction": "none",
+    "static_price": "none",
+    "emails": "none"
+    },{
+    "name": "Waffleswap below $0.20$",
+    "static_link": "https://poocoin.app/tokens/0x650febe5ad8a17a8f27f17ec80fd208e23e9246c",
+    "static_direction": "below",
+    "static_price": "$0.20",
+    "emails": "none"
+    },{
+    "name": "Waffleswap above $0.50$",
+    "static_link": "https://poocoin.app/tokens/0x650febe5ad8a17a8f27f17ec80fd208e23e9246c",
+    "static_direction": "above",
+    "static_price": "$0.50",
+    "emails": "none"
+    }]
+}
