@@ -2,7 +2,7 @@ EXECUTION
 - Run the Executable file in the 'dist' folder
 - If you have the correct dependencies, you can run the script itself
 
----------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------
 
 OPTIONS FILE
 You can save predefined settings so you don't have to type them out every time you run the
@@ -33,18 +33,18 @@ emails: If you want emails to be sent when the price passes the thresholds you p
 default value is 'none'
 NOTE: You might have to set 'pythonautosend@gmail.com' as a trusted sender on your email account since it might get flagged as spam
 
----------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------
 
 AUTHOR
 Remus Calugarescu
 2021-04-25
 
----------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------
 
 LAST MODIFIED
 2021-04-30
 
----------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------
 
 OTHER
 - If you have the correct libraries installed, you can run $pyinstaller --onefile poomonitor.py to recreate the executable
